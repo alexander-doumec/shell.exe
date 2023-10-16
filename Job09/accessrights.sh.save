@@ -1,0 +1,9 @@
+csv_file="Shell_Userlist.csv"
+colonne_role=$(cut -d ',' -f 5 "$csv_file")
+colonne_id=$(cut -d ',' -f 1 "$csv_file")
+colonne_
+
+
+echo $colonne_role
+echo $colonne_name
+
